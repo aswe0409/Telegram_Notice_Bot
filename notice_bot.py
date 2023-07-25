@@ -9,10 +9,10 @@ import time
 
 #CONST
 URL = 'https://cse.kangwon.ac.kr/cse/community/undergraduate-notice.do'
-TOKEN = '6236290538:AAER9AbelyQ6mrsL02SBbbZICAPtlQKUmgA'
 BASE_URL = 'https://cse.kangwon.ac.kr/cse/community/undergraduate-notice.do'
-CHAT_ID = '6190720715'
-CHAT_ID1 = '5719645582'
+TOKEN = ''
+CHAT_ID = ''
+CHAT_ID1 = ''
 
 # 봇 생성
 bot = Bot(token=TOKEN)
