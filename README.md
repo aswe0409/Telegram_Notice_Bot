@@ -14,3 +14,8 @@ Thank you:)
 공지사항 봇 #1
 https://velog.io/@aswe0409/TOY-PROJECT-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EC%95%8C%EB%A6%BC-%EB%B4%87-1
 
+공지사항 봇 #2 
+https://velog.io/@aswe0409/TOY-PROJECT-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EC%95%8C%EB%A6%BC-%EB%B4%87-2
+
+AWS Lambda upload
+https://velog.io/@aswe0409/TOY-PROJECT-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EC%95%8C%EB%A6%BC-%EB%B4%87-3
