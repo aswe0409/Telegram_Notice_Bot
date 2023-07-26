@@ -4,8 +4,9 @@
 자세한 내용은 아래의 링크로 들어가면 볼 수 있습니다.
 
 Prev_ver_notice_bot.py 파일은 공지사항 봇 #1 벨로그에서 자세한 설명을 볼 수 있습니다
-notice_bot.py는 이전 코드에서 문제점을 파악하고 수정한 코드 입니다.
-AWS_Lambda_noticeBot.py 파일은 notice_bot 파일을 AWS에 올려둔 코드 입니다.
+notice_bot.py는 이전 코드에서 문제점을 파악하고 수정한 코드 입니다. #2 글에서 자세한 설명을 볼 수 있습니다.
+AWS_Lambda_noticeBot.py 파일은 notice_bot 파일을 AWS에 올려둔 코드 입니다.  AWS Lambda upload 해당 링크에서 자세한 설명을 볼 수 있습니다
+
 
 It is a Telegram notification bot that crawls school announcements and notifies you with a push alarm when a new notice is posted.
 You can see for more information, go to the link below.
